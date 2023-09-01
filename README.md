@@ -86,9 +86,12 @@ const David = {
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartelo&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br>
-<div> 
+<br>
+<div align="center"> 
   <a href="https://www.linkedin.com/in/eduardomartelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+<br>
+<br>
 <br>
 <br>
 
