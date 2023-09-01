@@ -78,19 +78,21 @@ const David = {
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=DavidCreator)](https://github.com/ryo-ma/github-profile-trophy) -->
   
-<h3></h3>
 
-![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
 
-<div align="start">
+<div align="center">
   <a href="https://github.com/EduardoMartelo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EduardoMartelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoMartelo&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
+<br>
 <div> 
   <a href="https://www.linkedin.com/in/eduardomartelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+<br>
+<br>
+
+![Snake animation](https://github.com/Pleiterson/Pleiterson/blob/output/github-contribution-grid-snake.svg)
 
 <!-- <p align="center"><img src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1596034333343.png" alt="myoctocat" height="300" width="300"></p> -->
 
