@@ -88,7 +88,6 @@ const David = {
 <br>
 <br> -->
 <div align="center"> 
-  <span><img src="https://visitor-badge.laobi.icu/badge?page_id=EduardoMartelo" alt="EduardoMartelo"/></span>
   <a href="https://www.linkedin.com/in/eduardomartelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 <br>
