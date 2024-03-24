@@ -90,12 +90,6 @@ const David = {
 <div align="center"> 
   <a href="https://www.linkedin.com/in/eduardomartelo" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/eduardomartelo" target="blank"><svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect y="98.9949" width="120" height="20" transform="rotate(-45 0 98.9949)" fill="#001080"/>
-<rect x="28.2842" y="98.9949" width="120" height="20" transform="rotate(-45 28.2842 98.9949)" fill="#2675de"/>
-</svg> Meu Site</a>
-</div>
 <br>
 <br>
 <br>
